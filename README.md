@@ -35,4 +35,4 @@
 ![SPOTIFY](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
 ![YOUTUBE](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
 
-![TABLA](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)
+![TABLA](https://github-readme-stats.vercel.app/api/top-langs/?username={LeomarEs19}&theme=blue-green)
